@@ -131,7 +131,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'docs/index'
 
 # This will detect a blog post no matter where it is in /posts or what format
 # https://ablog.readthedocs.io/manual/posting-and-listing/#posting-front-matter
