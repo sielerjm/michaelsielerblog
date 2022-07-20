@@ -60,7 +60,7 @@ html_title = "Michael Sieler's Blog"
 # a list of builtin themes.
 html_theme = 'ms-blog'
 html_theme_path = ['_themes']
-k
+
 html_logo = 'media/logo/MS_Logo_Clr-WhBG-200px.png'
 
 
