@@ -105,6 +105,14 @@ blog_feed_archives = True
 blog_feed_fulltext = True
 blog_feed_length = 10
 
-# This will detect a blog post no matter where it is
+# This will detect a blog post no matter where it is in /posts or what format
 # https://ablog.readthedocs.io/manual/posting-and-listing/#posting-front-matter
 blog_post_pattern = ["posts/*.rst", "posts/*.md"]
+
+# Custom sidebar templates, maps document names to template names.
+html_sidebars = {
+   '**': [
+          'postcard.html', 'recentposts.html',
+          'tagcloud.html', 'categories.html',
+          'archives.html', ]
+}
