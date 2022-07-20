@@ -61,7 +61,7 @@ html_title = "Michael Sieler's Blog"
 html_theme = 'ms-blog'
 html_theme_path = ['_themes']
 
-html_logo = '../media/logo/MS_Logo_Clr-WhBG-200px.png'
+html_logo = 'media/logo/MS_Logo_Clr-WhBG-200px.png'
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
