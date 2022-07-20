@@ -30,10 +30,10 @@ author = 'Michael Sieler'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "sphinx_comments",
-    "sphinx_panels",
     'ablog',
     'sphinx.ext.intersphinx',
+    # 'atom_absolute',
+    'sphinxext.opengraph',
 ]
 
 comments_config = {
@@ -78,6 +78,7 @@ html_favicon = 'favicon.ico'
 blog_title = "Michael Sieler's Blog"
 blog_baseurl = 'https://blog.michaelsieler.com'
 blog_path = 'archive'
+fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
 post_auto_excerpt = 2
 
@@ -116,6 +117,20 @@ templates_path.append(os.path.join(
 
 templates_path.append(ablog.get_html_templates_path())
 
+html4_writer = True
+
+if os.environ.get('READTHEDOCS', None) == 'True':
+    skip_pickling = True
+
+
+# The suffix of source filenames.
+source_suffix = '.rst'
+
+# The encoding of source files.
+#source_encoding = 'utf-8-sig'
+
+# The master toctree document.
+master_doc = 'index'
 
 # This will detect a blog post no matter where it is in /posts or what format
 # https://ablog.readthedocs.io/manual/posting-and-listing/#posting-front-matter
@@ -129,3 +144,13 @@ html_sidebars = {
           'tagcloud.html', 'categories.html',
           'archives.html', ]
 }
+
+
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'sphinx'
+
+
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+html_static_path = ['_static']
