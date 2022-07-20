@@ -3,22 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to my site!
+Welcome to my blog!
 ===================
 
-The goal of this site is to share my research, projects and blogs.
-
-.. note::
-
-	This site is in active development.
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents:
-
-   AboutMe
-   Blog
-   Experience/experience
-   Projects/projects
-   Publications/publications
+.. postlist:: 10
+    :excerpts:
+    :format: {date} - {title}
