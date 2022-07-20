@@ -60,7 +60,7 @@ html_title = "Michael Sieler's Blog"
 # a list of builtin themes.
 html_theme = 'ms-blog'
 html_theme_path = ['_themes']
-
+k
 html_logo = 'media/logo/MS_Logo_Clr-WhBG-200px.png'
 
 
@@ -131,7 +131,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'docs/index'
+master_doc = 'index'
 
 # This will detect a blog post no matter where it is in /posts or what format
 # https://ablog.readthedocs.io/manual/posting-and-listing/#posting-front-matter
