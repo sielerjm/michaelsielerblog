@@ -104,3 +104,7 @@ blog_default_location = 'PDX'
 blog_feed_archives = True
 blog_feed_fulltext = True
 blog_feed_length = 10
+
+# This will detect a blog post no matter where it is
+# https://ablog.readthedocs.io/manual/posting-and-listing/#posting-front-matter
+blog_post_pattern = ["posts/*.rst", "posts/*.md"]
