@@ -55,12 +55,15 @@ Video 1.3: Overview, principles of effective writing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Things to watch out for in your writing**
--Pay attention to vague words.
+
+- Pay attention to vague words.
 - Physiologic? What exactly does this mean?
 - Molecular species? Which species?
 - Watch out for jargon. Simplify as much as possible.
 - Careful of acronyms and initialisms.
-  - Unless they are standard terms. Most readers won't know what they mean.
+
+  - Unless they are standard terms. Most readers won't know what they mean
+
 - Be mindful of using passive voice.
 - Place verb early on in sentence
 
@@ -85,12 +88,21 @@ After:
 
 Before
 
-    "The experimental demonstration is the first of its kind and is a proof of principle for the concept of laser driven particle acceleration in a structure loaded vacuum."
+    The experimental demonstration is the first of its kind and is a proof of principle for the concept of laser driven particle acceleration in a structure loaded vacuum.
 
 
 After:
 
     This experiment provides a proof of principle of laser-driven particle acceleration in a structure-loaded vacuum.
+
+
+Before:
+
+    Brain injury incidence shows two peak periods in almost all reports: rates are the highest in young people and the elderly.
+
+After:
+
+    Rates of brain injury incidence peaks in the young and the elderly.
 
 
 Cut unnecessary words
