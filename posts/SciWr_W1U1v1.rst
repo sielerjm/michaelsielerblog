@@ -198,3 +198,66 @@ Omit needless prepositions
 
 - "The meeting happened on Monday" to "The meeting happened Monday"
 - "They agreed that it was true" to "They agreed it was true."
+
+
+**Text of practice exercises for Module 1.6:**
+
+Before
+
+    Anti-inflammatory drugs may be protective for the occurrence of Alzheimer’s Disease.
+
+After
+
+    Anti-inflammatory drugs may protect against Alzheimer’s Disease.
+
+------
+
+Before
+
+    Clinical seizures have been estimated to occur in 0.5% to 2.3% of the neonatal population.
+
+After
+
+    Clinical seizures occur between 0.5% and 2.3% of newborns.
+
+------
+
+Before
+
+    Ultimately p53 guards not only against malignant transformation but also plays a role in developmental processes as diverse as aging, differentiation, and fertility.
+
+After
+
+    Besides preventing cancer, P53 also plays roles in aging, differentiation, and fertility.
+
+------
+
+Before
+
+    Injuries to the brain and spinal cord have long been known to be among the most devastating and expensive of all injuries to treat medically.
+
+After
+
+    Injuries to the brain and spinal cord are devastating and expensive of all medically treated injuries.
+
+------
+
+Before
+
+    An IQ test measures an individual’s abilities to perform functions that usually fall in the domains of verbal communication, reasoning, and performance on tasks that represent motor and spatial capabilities.
+
+After
+
+    IQ tests measure an individual’s verbal communication, reasoning, and performance on motor and spatial tasks.
+
+------
+
+Before
+
+    As we can see from Figure 2, if the return kinetic energy is less than 3.2 Up, there will be two electron trajectories associated with this kinetic energy.
+
+After
+
+    Figure 2 shows two electron trajectories associate with a return kinetic energy lower than 3.2 Up.
+
+------
