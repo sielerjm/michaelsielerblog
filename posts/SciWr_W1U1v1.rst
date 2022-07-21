@@ -131,7 +131,7 @@ Common Clutter
   - Muscular and cardiorespiratory performance
   - A majority of
   - Are of the same opinion
-  - less frequently occuring
+  - less frequently occurring
   - give rise to
   - due to the fact that
   - have an effect on
