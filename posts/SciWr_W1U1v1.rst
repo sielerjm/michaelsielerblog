@@ -48,3 +48,7 @@ Course Themes:
 
 - Complex ideas don't require complex language
 - Scientific writing should be easy and even enjoyable to read
+
+
+Video 3.1: Overview, principles of effective writing
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
