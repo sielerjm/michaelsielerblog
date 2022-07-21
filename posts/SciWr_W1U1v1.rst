@@ -40,7 +40,7 @@ More questions:
 Nouns slow down reading, verbs activate reading.
 
 - convert nouns to verbs when possible
--
+
   - "Selection" to "select"
   - "production" to "to produce"
   - "recycling" to "to recycle"
@@ -180,3 +180,21 @@ After
 
 Video 1.5: Cut the clutter, more tricks
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Eliminate negatives
+
+- "She was not often right" to "She was usually wrong"
+- "She did not want to perform the experiment incorrectly" to "She wanted to perform the experiment correctly"
+- "They did not believe the drug was harmful" to "they believed the drug was safe"
+
+Eliminate there are/there is
+
+- "There are many ways in which we can arrange the pulleys" to "We can arrange the pulleys in many ways"
+- "There was a long line of bacteria on the plate" to "Bacteria lined the plate"
+- "There are many physicists that like to write" to "Many physicists like to write"
+- "The data confirm that there is an association between vegetables and cancer" to "The data confirm an association between vegetables and cancer"
+
+Omit needless prepositions
+
+- "The meeting happened on Monday" to "The meeting happened Monday"
+- "They agreed that it was true" to "They agreed it was true."
