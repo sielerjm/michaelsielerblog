@@ -79,5 +79,17 @@ As it is well known, increased athletic activity has been related to a profile o
 
 After:
 ```
-Incrased athletic activity lowers cardiovascular risk, blood pressure levels, and improves muscular and cardio-respiratory performance.
+Increased athletic activity is associates with lower cardiovascular risk, blood pressure, and improves fitness.
+```
+
+Before
+
+```
+"The experimental demonstration is the first of its kind and is a proof of principle for the concept of laser driven particle acceleration in a structure loaded vacuum."
+```
+
+After:
+
+```
+This experiment provides a proof of principle of laser-driven particle acceleration in a structure-loaded vacuum.
 ```
