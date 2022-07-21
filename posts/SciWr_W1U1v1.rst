@@ -118,45 +118,41 @@ Common Clutter
 
 - Dead weight words and phrases
 
-    - As it has been shown
-
+  - As it has been shown
 
 - Empty words and phrases
 
-    - basic tenets of
-    - methodologic
-    - important
-
+  - basic tenets of
+  - methodologic
+  - important
 
 - Long words or phrases that could be short
 
-    - Muscular and cardiorespiratory performance
-    - A majority of
-    - Are of the same opinion
-    - less frequently occuring
-    - give rise to
-    - due to the fact that
-    - have an effect on
-
+  - Muscular and cardiorespiratory performance
+  - A majority of
+  - Are of the same opinion
+  - less frequently occuring
+  - give rise to
+  - due to the fact that
+  - have an effect on
 
 - Unnecessary Jargon and acronyms
 
-    - Muscular and cardiorespiratory performance
-    - Gliomagensis
-    - miR
-
+  - Muscular and cardiorespiratory performance
+  - Gliomagensis
+  - miR
 
 - Repetitive words or phrases
 
-    - studies/examples
-    - illustrate/demonstrate
-    - challenges/difficulties
-    - successful solutions
+  - studies/examples
+  - illustrate/demonstrate
+  - challenges/difficulties
+  - successful solutions
 
 
 - Adverbs
 
-    - very, really, quite, basically, generally, etc.
+  - very, really, quite, basically, generally, etc.
 
 
 ------
@@ -180,3 +176,7 @@ After
     Deficiency in T-cell-mediated immune response predisposes an individual to TB.
 
 ------
+
+
+Video 1.5: Cut the clutter, more tricks
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
