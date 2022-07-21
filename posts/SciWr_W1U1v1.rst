@@ -6,8 +6,8 @@
 :language: English
 :tags: coursera
 
-Scientific Writing Coursera Course
-==================================
+Scientific Writing Coursera Course: Week 1
+==========================================
 
 To improve my scientific writing skills, I've enrolled in a `Coursera course <https://www.coursera.org/learn/sciwrite/home/welcome>`_ taught by Dr. Dr. Kristin Sainani.
 
@@ -31,3 +31,20 @@ Questions to ask yourself:
 - Is this sentence enjoyable and interesting to read?
 
 .. note:: Science should be enjoyable and fun to read!
+
+More questions:
+
+- Is this sentence readable?
+- Is it written to inform or to obscure?
+
+Nouns slow down reading, verbs activate reading.
+
+- convert nouns to verbs when possible
+    - "Selection" to "select"
+    - "production" to "to produce"
+    - "recycling" to "to recycle"
+
+Course Themes:
+
+- Complex ideas don't require complex language
+- Scientific writing should be easy and even enjoyable to read
