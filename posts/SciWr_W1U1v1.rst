@@ -238,7 +238,7 @@ Before
 
 After
 
-    Injuries to the brain and spinal cord are devastating and expensive of all medically treated injuries.
+    Injuries to the brain and spinal cord are among the most devastating and expensive.
 
 ------
 
@@ -248,7 +248,7 @@ Before
 
 After
 
-    IQ tests measure an individual’s verbal communication, reasoning, and performance on motor and spatial tasks.
+    An IQ test measures an individual’s verbal communication, reasoning, or motor and spatial capabilities.
 
 ------
 
@@ -258,6 +258,6 @@ Before
 
 After
 
-    Figure 2 shows two electron trajectories associate with a return kinetic energy lower than 3.2 Up.
+    Figure 2 shows that a return kinetic energy lower than 3.2 Up yields two electron trajectories.
 
 ------
