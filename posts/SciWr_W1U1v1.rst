@@ -106,5 +106,9 @@ After:
 
 
 Cut unnecessary words
+
 - Be vigilant and ruthless
 - Try the sentence without the extra words and see how it's better-conveys the same idea with more power.
+
+
+Common Clutter
