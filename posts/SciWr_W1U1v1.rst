@@ -40,6 +40,7 @@ More questions:
 Nouns slow down reading, verbs activate reading.
 
 - convert nouns to verbs when possible
+-
   - "Selection" to "select"
   - "production" to "to produce"
   - "recycling" to "to recycle"
@@ -73,23 +74,25 @@ Video 1.4: Cut the clutter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Before:
-```
-As it is well known, increased athletic activity has been related to a profile of lower cardiovascular risk, lower blood pressure levels, and improved muscular and cardio-respiratory performance.
-```
+
+    As it is well known, increased athletic activity has been related to a profile of lower cardiovascular risk, lower blood pressure levels, and improved muscular and cardio-respiratory performance.
+
 
 After:
-```
-Increased athletic activity is associates with lower cardiovascular risk, blood pressure, and improves fitness.
-```
+
+    Increased athletic activity is associates with lower cardiovascular risk, blood pressure, and improves fitness.
+
 
 Before
 
-```
-"The experimental demonstration is the first of its kind and is a proof of principle for the concept of laser driven particle acceleration in a structure loaded vacuum."
-```
+    "The experimental demonstration is the first of its kind and is a proof of principle for the concept of laser driven particle acceleration in a structure loaded vacuum."
+
 
 After:
 
-```
-This experiment provides a proof of principle of laser-driven particle acceleration in a structure-loaded vacuum.
-```
+    This experiment provides a proof of principle of laser-driven particle acceleration in a structure-loaded vacuum.
+
+
+Cut unnecessary words
+- Be vigilant and ruthless
+- Try the sentence without the extra words and see how it's better-conveys the same idea with more power.
