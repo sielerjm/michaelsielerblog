@@ -119,11 +119,15 @@ Common Clutter
 - Dead weight words and phrases
 
     - As it has been shown
+
+
 - Empty words and phrases
 
     - basic tenets of
     - methodologic
     - important
+
+
 - Long words or phrases that could be short
 
     - Muscular and cardiorespiratory performance
@@ -133,20 +137,27 @@ Common Clutter
     - give rise to
     - due to the fact that
     - have an effect on
+
+
 - Unnecessary Jargon and acronyms
 
     - Muscular and cardiorespiratory performance
     - Gliomagensis
     - miR
+
+
 - Repetitive words or phrases
 
     - studies/examples
     - illustrate/demonstrate
     - challenges/difficulties
     - successful solutions
+
+
 - Adverbs
 
     - very, really, quite, basically, generally, etc.
+
 
 ------
 
