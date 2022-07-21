@@ -22,7 +22,7 @@ Video 1.1: Introduction; Principles of effective writing
 Dr. Sainani introduced the course, gave an overview of the course material, and some brief principles of effective writing.
 
 
-Video 2.1: Examples of what not to do
+Video 1.2: Examples of what not to do
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Questions to ask yourself:
@@ -40,9 +40,9 @@ More questions:
 Nouns slow down reading, verbs activate reading.
 
 - convert nouns to verbs when possible
-    - "Selection" to "select"
-    - "production" to "to produce"
-    - "recycling" to "to recycle"
+  - "Selection" to "select"
+  - "production" to "to produce"
+  - "recycling" to "to recycle"
 
 Course Themes:
 
@@ -50,5 +50,34 @@ Course Themes:
 - Scientific writing should be easy and even enjoyable to read
 
 
-Video 3.1: Overview, principles of effective writing
+Video 1.3: Overview, principles of effective writing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Things to watch out for in your writing**
+-Pay attention to vague words.
+- Physiologic? What exactly does this mean?
+- Molecular species? Which species?
+- Watch out for jargon. Simplify as much as possible.
+- Careful of acronyms and initialisms.
+  - Unless they are standard terms. Most readers won't know what they mean.
+- Be mindful of using passive voice.
+- Place verb early on in sentence
+
+**Overview of specific principles of Writing**
+- Cut unncessary words and phrases; learn to part with your words
+- Use the active voice (subject + verb + object)
+- Write with verbs: use strong verbs, avoid turning burbs into nouns, and don't bury the main verb
+
+
+Video 1.4: Cut the clutter
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Before:
+```
+As it is well known, increased athletic activity has been related to a profile of lower cardiovascular risk, lower blood pressure levels, and improved muscular and cardio-respiratory performance.
+```
+
+After:
+```
+Incrased athletic activity lowers cardiovascular risk, blood pressure levels, and improves muscular and cardio-respiratory performance.
+```
