@@ -9,7 +9,8 @@
 Welcome!
 ========
 
-Welcome to my blog. I'll be sharing more posts in the near future. Some topics I'll cover are:
+My name is Michael Sieler and welcome to my blog! I'll be sharing more posts in the near future. Some topics I'll cover are:
+
 - My research
   - The gut microbiome
   - Using Zebrafish as a model organism
