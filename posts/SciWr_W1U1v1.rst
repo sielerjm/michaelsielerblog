@@ -106,6 +106,7 @@ After:
 
     Rates of brain injury incidence peaks in the young and the elderly.
 
+------
 
 Cut unnecessary words
 
@@ -128,6 +129,12 @@ Common Clutter
 - Long words or phrases that could be short
 
     - Muscular and cardiorespiratory performance
+    - A majority of
+    - Are of the same opinion
+    - less frequently occuring
+    - give rise to
+    - due to the fact that
+    - have an effect on
 
 - Unnecessary Jargon and acronyms
 
@@ -141,3 +148,29 @@ Common Clutter
     - illustrate/demonstrate
     - challenges/difficulties
     - successful solutions
+
+- Adverbs
+
+    - very, really, quite, basically, generally, etc.
+
+------
+
+Before
+
+    The expected prevalence of mental retardation, based on the assumption that intelligence is normally distributed is about 2.5%.
+
+After
+
+    If intelligence is normally distributed, the expected prevalence of mental retardation is about 2.5%
+
+------
+
+Before
+
+    A robust cell-mediated immune response is ncessary, and deficiency in this response predisposes an individual towards active TB.
+
+After
+
+    Deficiency in T-cell-mediated immune response predisposes an individual to TB.
+
+------
