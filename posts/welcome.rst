@@ -11,10 +11,10 @@ Welcome!
 
 My name is Michael Sieler and welcome to my blog! I'll be sharing more posts in the near future. Some topics I'll cover are:
 
-- My research
+* My research
   - The gut microbiome
   - Using Zebrafish as a model organism
-- Personal projects
+* Personal projects
   - Virtual Fish: an educational video game
 
 
