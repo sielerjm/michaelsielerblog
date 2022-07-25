@@ -67,7 +67,7 @@ The passive voice inverts the agent/recipient relationship:
 
 The agent can be obscured in passive voice by dropping it entirely, for example:
 
-- Mistakes were made ~~by The President~~
+- Mistakes were made [by The President]
 
 **Recognizing a passive verb**
 
@@ -76,7 +76,7 @@ The agent can be obscured in passive voice by dropping it entirely, for example:
 
 **Examples of passive voice**
 
-- My first visit to Boson will always be remembered by me.
+- My first visit to Boston will always be remembered by me.
 
   - Recipient: my first visit to Boston
   - Passive verb: will always be
@@ -160,9 +160,9 @@ Additionally, it was found that pre-treatment with antibiotics increased the num
 Advantages of the active voice
 """"""""""""""""""""""""""""""
 
-1 Emphasizes author responsibility
-2 Improves readability
-3 Reduces ambiguity
+1. Emphasizes author responsibility
+2. Improves readability
+3. Reduces ambiguity
 
 
 **1) Emphasizes author responsibility**
@@ -319,19 +319,57 @@ Video 2.5: Practice Examples
 - The fear expressed by some teachers that students would not learn statistics well if they were permitted to use canned computer programs has not been realized in our experience.  A careful monitoring of achievement levels before and after the introduction of computers in the teaching of our course revealed no appreciable change in students’ performances.
 - Improvement: Many teachers feared that the use of canned computer programs would prevent students from learnign statistics. We monitored student achievement levels before and after the introduction of computers in our course and found no detriments in performance.
 
+-----
 
 - Review of each center’s progress in recruitment is important to ensure that the cost involved in maintaining each center’s participation is worthwhile.
 - Improvement: It is important to review each center's recruitment progress to ensure maintaining each center's participation is a worthwhile cost.
 
   - Better: We should review each center's recruitment progress to make sure its continued participation is cost-effective.
 
+-----
+
 - It should be emphasized that these proportions generally are not the result of significant increases in moderate and severe injuries, but in many instances reflect mildly injured persons not being seen at a hospital.
 - Improvement: These proportions reflect mildly injured persons not being seen at a hospital, rather than significant increases in moderate and severe injuries.
 
+  - Better: Shifting proportions in injury severity may reflect stricter hospital admission criteria rather than true increases in moderate and severe injuries.
+
+-----
 
 - Important studies to examine the descriptive epidemiology of autism, including the prevalence and changes in the characteristics of the population over time, have begun.
 - Improvement: Important studies have begun examining the descriptive epidemiology of autisim, including the prevalence and changes in characteristics of the population over time.
 
+  - Better: Studies have begun to describe the epidemiology of autism, including recent changes in the disorder's prevalence and characteristics.
+
+-----
+
+- There are multiple other mechanisms that are important, but most of them are suspected to only have a small impact or are only important because of impact on one of the three primary mechanisms.
+- Improvement: Multiple other mechanisms play only a small role or work by impacting one of the three primary mechanisms.
+
+-----
+
+- After rejecting paths with poor signal-to-noise ratios, we were left with 678 velocity measurements of waves with 7.5 seconds period and 891 measurements of 15 second waves.
+- Improvement: Rejecting paths with poor signal-to-noise ratios left 678 velocity measures of 7.5 second waves and 891 15 second waves.
+
 
 Video 2.5: A few grammar tips
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. "Data are" not "Data is"
+
+  - There word data is plural
+
+2. Affect (verb) vs. effect (noun)
+3. "Compared to" vs. "compared with"
+
+  - Compare to: to point out similarities between different things
+  - Compare with: to point out differences between similar things
+
+4. That vs. which
+
+  - "That" is the restrictive (defining) pronoun
+  
+    - "The vial that contained her RNA was lost
+
+  - "Which" is the nonrestrictive (non-defining) pronoun
+
+    - "The vial, which contained her RNA, was lost"
