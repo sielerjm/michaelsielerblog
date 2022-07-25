@@ -351,27 +351,39 @@ Video 2.5: Practice Examples
 - Improvement: Rejecting paths with poor signal-to-noise ratios left 678 velocity measures of 7.5 second waves and 891 15 second waves.
 
 
-Video 2.5: A few grammar tips
+Video 2.6: A few grammar tips
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. "Data are" not "Data is"
+1) "Data are" not "Data is"
 
    - There word data is plural
 
-2. Affect (verb) vs. effect (noun)
-3. "Compared to" vs. "compared with"
+2) Affect (verb) vs. effect (noun)
+3) "Compared to" vs. "compared with"
 
    - Compare to: to point out similarities between different things
    - Compare with: to point out differences between similar things
 
-4. That vs. which
+4) That vs. which
 
-   - "That" is the restrictive (defining) pronoun. The essential clause cannot be eliminated without changing the meaning of the sentence.
+  - "That" is the restrictive (defining) pronoun. The essential clause cannot be eliminated without changing the meaning of the sentence.
 
-     - "The vial that contained her RNA was lost
+    - "The vial that contained her RNA was lost
 
-   - "Which" is the nonrestrictive (non-defining) pronoun. The non-essential clause can be eliminated without altering the basic meaning of the sentence (and must be set off by commas).
+  - "Which" is the nonrestrictive (non-defining) pronoun. The non-essential clause can be eliminated without altering the basic meaning of the sentence (and must be set off by commas).
 
-     - "The vial, which contained her RNA, was lost"
+    - "The vial, which contained her RNA, was lost"
 
-   - Other disorders that have been found to co-occur with diabetes include heart disease and foot problems.
+  - Other disorders that have been found to co-occur with diabetes include heart disease and foot problems.
+
+5) Singular antecedents (they or their)
+
+  - Do not use "they" or "their" when the subject is singular. To avoid gender choice, turn to a plural.
+
+    - Each student worries about *their* grades.
+
+
+Summary
+^^^^^^^
+
+Using active instead of passive voice and improving our use of verbs can enhance our writing. Active voice demonstrates responsibility and can improve our writing by making it more direct. Strong verbs spice up our otherwise boring sentences. Swapping nouns with verbs speeds up the sentence. Burying verbs at the end of a sentence can result in the reader losing track of what's happening in the sentence.
