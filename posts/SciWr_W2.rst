@@ -113,7 +113,7 @@ Practice:
 By applying a high resolution, 90 degree bending magnet downstream of the laser electron interaction region, the spectrum of the electron beams *could be observed*.
 
 - Agent: none
--
+
   - Add "We could observe" to the front of the sentence.
 
 - verb: could be observed
@@ -356,20 +356,22 @@ Video 2.5: A few grammar tips
 
 1. "Data are" not "Data is"
 
-  - There word data is plural
+   - There word data is plural
 
 2. Affect (verb) vs. effect (noun)
 3. "Compared to" vs. "compared with"
 
-  - Compare to: to point out similarities between different things
-  - Compare with: to point out differences between similar things
+   - Compare to: to point out similarities between different things
+   - Compare with: to point out differences between similar things
 
 4. That vs. which
 
-  - "That" is the restrictive (defining) pronoun
-  
-    - "The vial that contained her RNA was lost
+   - "That" is the restrictive (defining) pronoun. The essential clause cannot be eliminated without changing the meaning of the sentence.
 
-  - "Which" is the nonrestrictive (non-defining) pronoun
+     - "The vial that contained her RNA was lost
 
-    - "The vial, which contained her RNA, was lost"
+   - "Which" is the nonrestrictive (non-defining) pronoun. The non-essential clause can be eliminated without altering the basic meaning of the sentence (and must be set off by commas).
+
+     - "The vial, which contained her RNA, was lost"
+
+   - Other disorders that have been found to co-occur with diabetes include heart disease and foot problems.
