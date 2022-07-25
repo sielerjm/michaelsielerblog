@@ -9,7 +9,7 @@
 Scientific Writing Coursera Course: Week 1
 ==========================================
 
-To improve my scientific writing skills, I've enrolled in a `Coursera course <https://www.coursera.org/learn/sciwrite/home/welcome>`_ taught by Dr. Dr. Kristin Sainani.
+To improve my scientific writing skills, I've enrolled in a `Coursera course <https://www.coursera.org/learn/sciwrite/home/welcome>`_ taught by Dr. Kristin Sainani.
 
 I'll be sharing my notes, thoughts and writing exercises in a series of blog posts.
 
@@ -64,8 +64,8 @@ Video 1.3: Overview, principles of effective writing
 
   - Unless they are standard terms. Most readers won't know what they mean
 
-- Be mindful of using passive voice.
-- Place verb early on in sentence
+- Be mindful of using passive voice
+- Place verbs early on in sentence
 
 **Overview of specific principles of Writing**
 - Cut unncessary words and phrases; learn to part with your words
