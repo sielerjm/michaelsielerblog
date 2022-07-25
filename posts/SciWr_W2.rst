@@ -181,3 +181,78 @@ Advantages of the active voice
 
 - Passive: General dysfunction of the immune system at leukocyte level *is suggested* by both animal and human studies.
 - Active: Both human and animal studies *suggest* that **diabetics** have general immune dysfunction at the leukocyte level.
+
+
+When to use passive voice
+"""""""""""""""""""""""""
+
+The passive voice works well for when you want to emphasize *what* was done and not *who* did it. For example, method sections are an appropriate place for passive voice.
+
+
+Video 2.2: Is it really OK to use "We" and "I"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Yes, it's okay to use personal pronouns in scientific writing.
+
+- The active voice is livelier and easer to read.
+- Avoiding personal pronouns does not make your science more objective
+
+  - You and your team designed, conducted, and interpreted the experiments. To imply otherwise is misleading.
+
+- Journal editors explicitly instruct authors to write in the active voice.
+
+
+
+Video 2.3: Active Voice Practice
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Practice sentences:
+"""""""""""""""""""
+
+- Passive: A recommendation was made by the DSMB committee that the study be halted.
+- Active: The DSMB committee recommended the study be halted.
+
+
+------
+
+
+- Passive: Major differences in the reaction times of the two study subjects were found.
+- Active: We observed major differences in reaction times of the two study subjects.
+
+  - Alt: The two study subjects differed in reaction times.
+
+
+------
+
+
+- Passive: It was concluded by the editors that the data had been falsified by the authors.
+- Active: The editors concluded that the authors falsified their data.
+
+
+------
+
+
+- Passive: The first visible-light snapshot of a planet circling another star has been taken by NASA’s Hubble Space Telescope.
+- Active: NASA's Hubble Space Telescope took the first visible-light snapshot of a planet circling another star.
+
+
+------
+
+
+- Passive: Therefore, the hypothesis that the overall kinetics of a double transtibial amputee athlete and an able-bodied sprinter at the same level of performance are not different was rejected.
+- Active: We reject the hypothesis that the overall kinetics of a double transtibial amputee athlete and an able-bodied sprinter at the same level of performance are not different
+
+  - Alt: We reject the hypothesis that the overall kinetics of a double transtibial are *comparable* between an amputee athlete and an able-bodied sprinter at the same level of performance.
+
+
+------
+
+
+Video 2.4: Write with verbs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Overview**
+
+- Use strong verbs
+- Avoid turning verbs into nouns
+- Avoid burying the main verb
