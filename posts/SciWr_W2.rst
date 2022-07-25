@@ -67,7 +67,7 @@ The passive voice inverts the agent/recipient relationship:
 
 The agent can be obscured in passive voice by dropping it entirely, for example:
 
-- Mistakes were made [by The President]
+- Mistakes were made ~~by The President~~
 
 **Recognizing a passive verb**
 
@@ -258,16 +258,16 @@ Video 2.4: Write with verbs
 - Avoid burying the main verb
 
 
-Use Strong Verbs
-""""""""""""""""
+1) Use Strong Verbs
+"""""""""""""""""""
 
 
-Example:
+**Example:**
 
 - Original: Loud music came from speakers embedded in the walls, and the entire arena moved as the hungry crowd got to its feet.
 - Improved: Loud music exploded from speakers embedded int he walls, and the entire arena shook as the hungry crowd leaped to its feet.
 
-Pick the right verb:
+**Pick the right verb:**
 
 - "reports that approximately" to "estimates" or "projects"
 - "*estimates* that X will Y in the next 25 years" to "*projects* that X will Y in the next 25 years"
@@ -275,15 +275,15 @@ Pick the right verb:
 Use "to be" verbs purposefully and sparingly. Try to substitute them with a stronger verb.
 
 
-Don't turn verbs into nouns
-"""""""""""""""""""""""""""
+2) Don't turn verbs into nouns
+""""""""""""""""""""""""""""""
 
-Example:
+**Example:**
 
 - Original: During DNA damage, *recognition* of H3K4me3 by ING2 results in *recruitment* of Sin3/HDAC and *repression* of cell proliferation genes.
 - Improved: During DNA damage, H3K4me3 *recruits* ING2 and Sin3/HDAC, which together *repress* cell proliferation genes.
 
-More examples:
+**More examples:**
 
 - "Obtain estimates of" to "estimate"
 - "Has seen an expansion in" to "has expanded"
@@ -296,5 +296,42 @@ More examples:
 - "Provide a description of" to "describe"
 
 
-Don't bury the main verb
-""""""""""""""""""""""""
+3) Don't bury the main verb
+"""""""""""""""""""""""""""
+
+Keep the subject and main verb (predicate) close together at the start of the sentence.
+
+Example:
+
+- **One study** of 930 adults with multiple sclerosis (MS) receiving care in one of two managed care settings or in a fee-for-service setting **found that** only two-thirds of those needing to contact a neurologist for an MS-related problem in the prior 6 months had done so (Vickrey et al 1999).
+
+  - Recipient: two-thirds of those...
+  - Verb: found that
+  - Agent: One study
+  - Improvement: One study found that, of ...
+
+
+Video 2.5: Practice Examples
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Examples:**
+
+- The fear expressed by some teachers that students would not learn statistics well if they were permitted to use canned computer programs has not been realized in our experience.  A careful monitoring of achievement levels before and after the introduction of computers in the teaching of our course revealed no appreciable change in students’ performances.
+- Improvement: Many teachers feared that the use of canned computer programs would prevent students from learnign statistics. We monitored student achievement levels before and after the introduction of computers in our course and found no detriments in performance.
+
+
+- Review of each center’s progress in recruitment is important to ensure that the cost involved in maintaining each center’s participation is worthwhile.
+- Improvement: It is important to review each center's recruitment progress to ensure maintaining each center's participation is a worthwhile cost.
+
+  - Better: We should review each center's recruitment progress to make sure its continued participation is cost-effective.
+
+- It should be emphasized that these proportions generally are not the result of significant increases in moderate and severe injuries, but in many instances reflect mildly injured persons not being seen at a hospital.
+- Improvement: These proportions reflect mildly injured persons not being seen at a hospital, rather than significant increases in moderate and severe injuries.
+
+
+- Important studies to examine the descriptive epidemiology of autism, including the prevalence and changes in the characteristics of the population over time, have begun.
+- Improvement: Important studies have begun examining the descriptive epidemiology of autisim, including the prevalence and changes in characteristics of the population over time.
+
+
+Video 2.5: A few grammar tips
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
