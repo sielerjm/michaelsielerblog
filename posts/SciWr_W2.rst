@@ -256,3 +256,45 @@ Video 2.4: Write with verbs
 - Use strong verbs
 - Avoid turning verbs into nouns
 - Avoid burying the main verb
+
+
+Use Strong Verbs
+""""""""""""""""
+
+
+Example:
+
+- Original: Loud music came from speakers embedded in the walls, and the entire arena moved as the hungry crowd got to its feet.
+- Improved: Loud music exploded from speakers embedded int he walls, and the entire arena shook as the hungry crowd leaped to its feet.
+
+Pick the right verb:
+
+- "reports that approximately" to "estimates" or "projects"
+- "*estimates* that X will Y in the next 25 years" to "*projects* that X will Y in the next 25 years"
+
+Use "to be" verbs purposefully and sparingly. Try to substitute them with a stronger verb.
+
+
+Don't turn verbs into nouns
+"""""""""""""""""""""""""""
+
+Example:
+
+- Original: During DNA damage, *recognition* of H3K4me3 by ING2 results in *recruitment* of Sin3/HDAC and *repression* of cell proliferation genes.
+- Improved: During DNA damage, H3K4me3 *recruits* ING2 and Sin3/HDAC, which together *repress* cell proliferation genes.
+
+More examples:
+
+- "Obtain estimates of" to "estimate"
+- "Has seen an expansion in" to "has expanded"
+- "Provides a methodologic emphasi"s to "emphasizes methodology"
+- "Take an assessment of" to "assess"
+- "Provide a review of" to "review"
+- "Offer confirmation of" to "confirm"
+- "Make a decision" to "decide"
+- "Shows a peak" to "peaks"
+- "Provide a description of" to "describe"
+
+
+Don't bury the main verb
+""""""""""""""""""""""""
