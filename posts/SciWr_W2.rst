@@ -168,16 +168,16 @@ Advantages of the active voice
 **1) Emphasizes author responsibility**
 
 - Passive: No attempt *was made* to contact non-responders because they *were deemed* unimportant to the analysis.
-- Active: _We did not attempt_ to contact non-responders because we deemed them unimportant to the analysis.
+- Active: *We did not attempt* to contact non-responders because we deemed them unimportant to the analysis.
 
 **2) Improves readability**
 
-- Passive: A strong correlation _was found_ between use of the passive voice and other sins of writing.
-- Active: _We found_ a strong correlation between use of the passive voice and other sins of writing.
+- Passive: A strong correlation *was found* between use of the passive voice and other sins of writing.
+- Active: *We found* a strong correlation between use of the passive voice and other sins of writing.
 
   - Better: Use of the passive voice strongly correlated with other sins of writing.
 
 **3) Reduces ambiguity**
 
-- Passive: General dysfunction of the immune system at leukocyte level _is suggested_ by both animal and human studies.
-- Active: Both human and animal studies _suggest_ that **diabetics** have general immune dysfunction at the leukocyte level.
+- Passive: General dysfunction of the immune system at leukocyte level *is suggested* by both animal and human studies.
+- Active: Both human and animal studies *suggest* that **diabetics** have general immune dysfunction at the leukocyte level.
