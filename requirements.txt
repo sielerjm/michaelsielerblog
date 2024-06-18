@@ -1,4 +1,4 @@
-Sphinx==5.0.2
+sphinx
 sphinxext-opengraph==0.6.3
 docutils<0.18
 jinja2<3.1.0
