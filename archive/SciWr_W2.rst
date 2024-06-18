@@ -1,4 +1,4 @@
-:blogpost: true
+:blogpost: false
 :date: July 25, 2022
 :author: Michael
 :location: PDX
