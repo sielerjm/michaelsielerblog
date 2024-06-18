@@ -116,7 +116,7 @@ templates_path.append(os.path.join(
     '_themes', 'ms-blog'
 ))
 
-templates_path.append(ablog.get_html_templates_path())
+#templates_path.append(ablog.get_html_templates_path())
 
 # html4_writer = True
 
