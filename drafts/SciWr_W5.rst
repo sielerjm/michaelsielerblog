@@ -1,4 +1,4 @@
-Scientific Writing Coursera Course: Week 2
+Scientific Writing Coursera Course: Week 5
 ==========================================
 
 
@@ -185,3 +185,82 @@ The Discussion: Verb Tense
   - "The greater weight loss suggests"
   - "The explanation for this difference is not clear..."
   - "Potential explanations include..."
+
+
+Video 5.4: Methods
+^^^^^^^^^^^^^^^^^^
+
+- Give a clear overview of what was done
+- Give enough information someone could replicate the study (e.g., a recipe)
+- Be complete, but make life easier for the reader
+
+  - Break up your methods into sub-sections with sub-headings
+  - Display methods in a flow diagram or table, rather than text
+
+- You may use jargon, passive voice
+
+
+What to include in the methods section?
+"""""""""""""""""""""""""""""""""""""""
+
+- Materials
+- Participants/subjects
+
+  - Animals: state that the research was approved by the appropriate committee at your institution
+  - Humans: same as above
+
+- Experimental protocol/study design
+- Measurements
+
+  - How were the dependent and independent variables measured
+
+- Analyses
+
+
+Refer to previously used methods
+
+- "... as previously described (citation)"
+
+
+Verb tense
+""""""""""
+
+- Past tense
+- Present tense for how the data is described
+
+Passive vs Active Voice
+"""""""""""""""""""""""
+
+You can switch between the two depending on what you want to emphasize.
+
+- "Oral temperatures were measured..." vs "We measured oral temperatures"
+
+
+Video 5.5: Introduction
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Overview:
+
+- Typically 3 paragraphs long (recommended 2 to 5)
+
+  - Paragraphs should be short
+
+- Should not be an exhaustive review of your general topic
+
+  - Should focus on the specific hypothesis/aim of the study
+  - Write for a general audience
+
+- Do no answer the research question (no results, implications)
+- Summarize at a high leveld
+
+  - Leave detailed descriptions, speculations, and criticisms of particular studies for the discussion
+
+
+Standard Format
+"""""""""""""""
+
+- Paragraph 1: Background, known information
+- P2: Knowledge gap, unknown information
+- P3: Hypothesis, question, purpose statement
+- P3: Approach, plan of attack, proposed solution
+- P3: Why your experimental approach is new and different and important (fills gaps)
