@@ -4,10 +4,10 @@
 :location: PDX
 :category: Blog
 :language: English
-:tags: blog
+:tags: writing
 
-Intro
-=====
+Scientific Writing Resources
+============================
 
 Over the course of my studies, I've gained experience in scientific writing from a variety of sources. I've learned from my mentors, my peers, and my own experiences. I've also found some great resources along the way that have helped me improve my writing skills. In this post, I'll share some of the resources that I've found most helpful. I hope you find them useful too!
 
