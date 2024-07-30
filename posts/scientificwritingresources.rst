@@ -14,9 +14,8 @@ Over the course of my studies, I've gained experience in scientific writing from
 Scientific Writing
 ------------------
 
-## Narrative Structure and Strategy
-
-(Adapted from Tom Sharpton's writing workshops during lab meetings)
+Narrative Structure and Strategy
+````````````````````````````````
 
 ### Elements of a story
 * What’s the problem?
@@ -37,7 +36,8 @@ Scientific Writing
 
 
 
-### Story archetypes
+Story archetypes
+''''''''''''''''
 
 Use the following archetypes to frame your writing. Pretend as if you are a fiction author writing a fantasy story about a hero (you) going on an epic quest (scientific experiemnt) to conquer a dragon (research question).
 
@@ -59,7 +59,9 @@ Use the following archetypes to frame your writing. Pretend as if you are a fict
     * Something we once thought of as dangerous is repurposed such that it becomes a saving resource
 
 
-### Outline: live and die by the outline
+Outline: live and die by the outline
+''''''''''''''''''''''''''''''''''''
+
 1. Develop an outline can establish EDOCC principles
 2. Start with a thesis statement at the top of the page (ONE SENTENCE)
 3. Enumerate the key (major) ideas you need to advance to make your thesis argument
@@ -69,7 +71,8 @@ Use the following archetypes to frame your writing. Pretend as if you are a fict
    * For each major idea, add subpoints which repeat this process, but at the level of the major idea
 
 
-## Organizing your thoughts with PowerPoint slides:
+Organizing your thoughts with PowerPoint slides:
+''''''''''''''''''''''''''''''''''''''''''''''''
 
 My advisor strongly recommends using a PowerPoint slide deck to organize my results and thoughts prior to starting any drafting of a scientific manuscript. I’ve found this strategy to be helpful for clarifying what the narrative story is of my manuscript. It also helps focus the story to be within a manageable scope, cutting away any excess information. 
 
@@ -95,9 +98,11 @@ d.
    * You can start piecing together your results section by copy/pasting text from your PowerPoint slides
 
 
-## Structure of manuscript:
+Structure of manuscript:
+````````````````````````
 
-### Abstract:
+Abstract:
+'''''''''
 
 The abstract is a like a mini-paper. You're condensing everything into less than 300 words, typically. Generally abstract will include a sentence or two of the following, and not necessarily in this exact order
 
@@ -112,11 +117,12 @@ The abstract is a like a mini-paper. You're condensing everything into less than
 5. What you learned/implications
     * "Our results indicate X"
 
-#### Examples:
+Examples:
 
 * `Nature abstract example <https://www.nature.com/documents/nature-summary-paragraph.pdf>`_
 
-### Intro:
+Intro:
+''''''
 
 * Generally, the introduction is like an information funnel. Start broad and then focus down
     * Your first sentence should start with a hook, an interesting line, something that invites the reader to go to the next sentence. And so on, so that each sentence builds on the previous.
@@ -146,7 +152,8 @@ The abstract is a like a mini-paper. You're condensing everything into less than
         * "We determined which normalization performs optimally".
         * "We determined how to evaluate which normalization to use in X scenarios." "We determined the performance of ad-hoc methods...", etc. etc.
 
-### Results:
+Results:
+''''''''
 
 * Title of each result's sub*sections are the main take-home message
 * First sentence of each paragraph: "To determine X, Y, Z (results for this sub-section), we did A, B, C (Methods)". You'll only talk about these things in this paragraph. A different analysis or to determine something else will go into a new paragraph so long as it's related to the sub-section's take-home message. Subsequent paragraphs will follow this and the following structures.
@@ -159,7 +166,8 @@ The abstract is a like a mini-paper. You're condensing everything into less than
     * Final sentence of that paragraph: These results indicate... (One sentence overview of the implications of that paragraph)
 * If you have more analyses that are of a different category than the ones mentioned in the current paragraph, but relate to the overall take-home message of this result's subsection, make a new paragraph and follow the same structure. 
 
-### Discussion:
+Discussion:
+'''''''''''
 
 * Your first paragraph of your discussion reminds the reader what you did, why you did it (the problem/gap in the field), what you found (high level overview/one sentence) and the implications of your study's findings (1*2 sentences).
 * Next paragraph discusses the first result's sub*section:
@@ -180,7 +188,8 @@ The abstract is a like a mini-paper. You're condensing everything into less than
     * Last sentence is the major take-home message of your entire paper. 
         * If someone read nothing else, what is the one thing you'd want them to walk away with in one sentence?
 
-### Conclusion:
+Conclusion:
+'''''''''''
 
 * What did your study demonstrate? (overall take home message)
 * What did you do?
