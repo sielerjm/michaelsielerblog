@@ -26,7 +26,9 @@ Elements of a story
 * What did you do about it?
 * What did you learn?
 
-### Develop Narrative
+Develop Narrative
+'''''''''''''''''
+
 * Establish: thesis or theme, major idea
     * Everything you write should advance the theme
 * Define: which arguments need to make to prove that theme or goal is true
