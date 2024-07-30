@@ -17,7 +17,9 @@ Scientific Writing
 Narrative Structure and Strategy
 ````````````````````````````````
 
-### Elements of a story
+Elements of a story
+'''''''''''''''''''
+
 * What’s the problem?
     * What don’t we know?
 * Why does it matter?
